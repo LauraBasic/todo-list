@@ -1,2 +1,2 @@
-# todo-list
-To Do List em JavaScript
+# To Do List
+### To Do List desenvolvida em JavaScript
